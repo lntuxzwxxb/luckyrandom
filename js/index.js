@@ -261,7 +261,7 @@ new Vue({
           <a-icon type="crown"/>
         </a-button>
         </div>
-          <div id="footer2">本系统的诞生离不开dengzemiao的仓库· Edited By 2024 Ding YiHan.</div>
+          <div id="footer2">辽宁工程技术大学校大学生自律委员会·信息部 制</div>
       </div>
 
   `,
