@@ -125,7 +125,7 @@ new Vue({
   		</tr>
   	</table>
   </div>
-         <div id="footer2">本网页的诞生离不开Gitee用户hkxiao-li的仓库·© 2024 LazyHan. All rights reserved.</div>
+                  <div id="footer2">辽宁工程技术大学校大学生自律委员会·信息部 制</div>
   `,
 
   data () {
